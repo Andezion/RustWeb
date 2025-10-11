@@ -1,0 +1,11 @@
+/home/trutix/Documents/Rust/RustWeb/target/debug/deps/leptos_server-8661a07c47b943ba.d: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/action.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/local_resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/multi_action.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/once_resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/shared.rs
+
+/home/trutix/Documents/Rust/RustWeb/target/debug/deps/libleptos_server-8661a07c47b943ba.rmeta: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/action.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/local_resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/multi_action.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/once_resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/resource.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/shared.rs
+
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/lib.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/action.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/local_resource.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/multi_action.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/once_resource.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/resource.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.5/src/shared.rs:

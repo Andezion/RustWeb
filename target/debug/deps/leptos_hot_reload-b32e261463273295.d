@@ -1,0 +1,11 @@
+/home/trutix/Documents/Rust/RustWeb/target/debug/deps/leptos_hot_reload-b32e261463273295.d: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/diff.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/node.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/parsing.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/patch.js
+
+/home/trutix/Documents/Rust/RustWeb/target/debug/deps/libleptos_hot_reload-b32e261463273295.rlib: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/diff.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/node.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/parsing.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/patch.js
+
+/home/trutix/Documents/Rust/RustWeb/target/debug/deps/libleptos_hot_reload-b32e261463273295.rmeta: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/diff.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/node.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/parsing.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/patch.js
+
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/lib.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/diff.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/node.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/parsing.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.5/src/patch.js:

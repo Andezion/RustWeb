@@ -1,0 +1,14 @@
+/home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/deps/serde-b7241b43da9f266e.d: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/build/serde-9157baf512e4924c/out/private.rs
+
+/home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/deps/libserde-b7241b43da9f266e.rlib: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/build/serde-9157baf512e4924c/out/private.rs
+
+/home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/deps/libserde-b7241b43da9f266e.rmeta: /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/build/serde-9157baf512e4924c/out/private.rs
+
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/trutix/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/build/serde-9157baf512e4924c/out/private.rs:
+
+# env-dep:OUT_DIR=/home/trutix/Documents/Rust/RustWeb/target/wasm32-unknown-unknown/debug/build/serde-9157baf512e4924c/out
