@@ -1,0 +1,16 @@
+# Ignore Cargo build directory
+/target
+
+# Ignore backup files
+**/*.rs.bk
+
+# If you're building docs
+/target/doc
+
+# Optional: IDE/editor specific files
+.idea
+.vscode
+
+# OS-specific
+.DS_Store
+Thumbs.db
