@@ -3,18 +3,22 @@ use std::net::SocketAddr;
 mod app;
 mod auth;
 mod forum;
+mod sports;
 
 use crate::app::create_app;
-use hyper::Server;
 
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
-	tracing_subscriber::fmt::init();
+    tracing_subscriber::fmt::init();
 
-	let _app = create_app().await?;
+    let app = create_app().await?;
 
-	tracing::info!("backend created (server start omitted). To run the server, edit main.rs to start Server::bind or use a small wrapper.");
+    let addr = SocketAddr::from(([127, 0, 0, 1], 3000));
+    tracing::info!("Server starting on http://{}", addr);
 
-	Ok(())
+    let listener = tokio::net::TcpListener::bind(addr).await?;
+    axum::serve(listener, app).await?;
+
+    Ok(())
 }
 
