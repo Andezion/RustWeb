@@ -4,4 +4,17 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-# Frontend will be implemented with Leptos or another framework later.
+leptos = { version = "0.6", features = ["csr"] }
+leptos_router = { version = "0.6", features = ["csr"] }
+leptos_meta = { version = "0.6", features = ["csr"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+wasm-bindgen = "0.2"
+wasm-bindgen-futures = "0.4"
+web-sys = { version = "0.3", features = ["Request", "RequestInit", "RequestMode", "Response", "Window"] }
+gloo-net = "0.5"
+console_error_panic_hook = "0.1"
+shared = { path = "../shared" }
+
+[lib]
+crate-type = ["cdylib"]
